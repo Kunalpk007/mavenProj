@@ -8,7 +8,7 @@ public class DisplayController {
 	
 	@RequestMapping("/hello")
 	public String display() {
-		return "HI Kunal";
+		return "Hello Kunal";
 	}
 
 }
